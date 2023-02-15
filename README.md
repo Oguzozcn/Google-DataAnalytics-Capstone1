@@ -1,6 +1,7 @@
 # Google-DataAnalytics-Capstone 1
 Google Data Analytics Capstone Project (Exploratory Data Analysis on a fictional company)
 ____________________
+## 1- ASK
 
 # Introduction
 
