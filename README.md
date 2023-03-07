@@ -27,7 +27,8 @@ Cyclistic marketing analytics team: A team of data analysts who are responsible 
 
 # Data Source
 The data used would cover rider information spanning a one-year period from August 2021 to July 2022. 
-The data used is 12 months covered information and whole 2022 year (Jan 2022 - Dec 2022). Every months data is stored in .csv file.
+The data used is 12 months covered information and whole 2022 year (Jan 2022 - Dec 2022). Every months data is stored in .csv file. The data has been made available by
+Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement)
 
 
 
