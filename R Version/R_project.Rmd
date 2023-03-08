@@ -321,7 +321,7 @@ max(all_trips_cleaned$ride_length)
 # shortest ride
 min(all_trips_cleaned$ride_length) 
 
-# You can condense the four lines above to one line using summary() on the specific attribute
+# I can condense the four lines above to one line using summary() on the specific attribute
 summary(all_trips_cleaned$ride_length)
 
 # Compare members and casual users
@@ -339,7 +339,7 @@ all_trips_cleaned$day_of_week <- ordered(all_trips_cleaned$day_of_week, levels=c
 # Now, let's run the average ride time by each day for members vs casual users
 aggregate(all_trips_cleaned$ride_length ~ all_trips_cleaned$usertype + all_trips_cleaned$day_of_week, FUN = mean)
 
-# analyze ridership data by type and weekday
+# Analyzed ridership data by type and weekday
 
 #creates weekday field using wday(), groups by usertype and weekday, #calculates the number of rides and average duration, calculates the average duration 
 
