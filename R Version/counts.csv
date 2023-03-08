@@ -1,0 +1,15 @@
+"","all_trips_cleaned$usertype","all_trips_cleaned$day_of_week","all_trips_cleaned$ride_length.mean","all_trips_cleaned$ride_length.max"
+"1","casual","Monday",   1490.0468,1922127.0000
+"2","member","Monday",    721.9727,  89594.0000
+"3","casual","Tuesday",   1286.5190, 654358.0000
+"4","member","Tuesday",    707.4686,  87722.0000
+"5","casual","Wednesday",   1243.0783, 835693.0000
+"6","member","Wednesday",    710.8143,  88277.0000
+"7","casual","Thursday",   1284.2069,1624968.0000
+"8","member","Thursday",    721.9113,  88538.0000
+"9","casual","Friday",   1341.4274, 597741.0000
+"10","member","Friday",    733.6164,  87318.0000
+"11","casual","Saturday",   1605.9639,2061244.0000
+"12","member","Saturday",    838.8955,  86997.0000
+"13","casual","Sunday",   1633.6491, 648433.0000
+"14","member","Sunday",    831.0463,  88602.0000
